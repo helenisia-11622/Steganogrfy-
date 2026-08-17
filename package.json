@@ -1,0 +1,22 @@
+{
+ "name": "autis",
+ "version": "0.0.1",
+ "description": "proyek kontol",
+ "main": "index.js",
+ "type": "module",
+ "start": "node index.js",
+ "embed": "node index.js embed",
+ "extract": "node inde.js extract",
+ "dependencies": {
+  "jimp": "^0.22.12"
+ },
+ "author": "by gw",
+ "license": "MIT",
+ "keywords": [
+  "steganografi",
+  "lsb",
+  "xor",
+  "base64",
+  "password"
+ ]
+}
