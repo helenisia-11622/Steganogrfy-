@@ -1,9 +1,15 @@
 # Steganogrfy-
 
 pkg update && pkg upgrade
+
+pkg install nodejs
+
 pkg install git
+
 git clone ""
-cd steganografy
+
+cd ./Steganografy
+
 npm install
 
 contoh penggunaan:
