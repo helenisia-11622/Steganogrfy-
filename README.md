@@ -8,7 +8,7 @@ pkg install git
 
 git clone "https://github.com/helenisia-11622/Steganogrfy-.git"
 
-cd ./Steganografy
+cd ./Steganogrfy-
 
 npm install
 
