@@ -6,7 +6,7 @@ pkg install nodejs
 
 pkg install git
 
-git clone ""
+git clone "https://github.com/helenisia-11622/Steganogrfy-.git"
 
 cd ./Steganografy
 
